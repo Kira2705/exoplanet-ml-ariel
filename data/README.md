@@ -1,7 +1,6 @@
 \# Data Directory
 
 
-
 \## Structure
 
 \- `raw/` - Original challenge data (not tracked by git)
