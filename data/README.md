@@ -12,14 +12,6 @@
 
 \## Download Instructions
 
-
-
-\### 2023 Challenge Data
-
-\[Add download link and instructions]
-
-
-
 \### 2024 Challenge Data
 
 \[Add download link and instructions]
